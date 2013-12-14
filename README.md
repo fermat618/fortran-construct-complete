@@ -1,6 +1,9 @@
-A Vim ftplugin for fortran.
+fortran-construct-complete
+==========================
 
-examples
+A Vim ftplugin for fortran to complete fortran comstruct automaticly.
+
+Examples
 
 ```
 real function add(a, b) results(s)<Enter>
